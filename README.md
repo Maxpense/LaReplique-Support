@@ -3,7 +3,7 @@
 Bienvenue sur la page de support de l'application **La Réplique**.
 
 ### Contactez-nous 
-- 📧 Email : support@lareplique.app 
+- 📧 Email : lareplique.app@gmail.com
 - 🌐 Site officiel : *en cours de création* 
 - 📄 Documentation : *à venir* 
 
